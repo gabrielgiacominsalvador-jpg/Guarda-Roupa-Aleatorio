@@ -1,20 +1,36 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-        <title>Mensagem Secreta</title>
-            <link rel="stylesheet" href="style.css">
-            </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensagem Secreta</title>
+    <link rel="stylesheet" href="./estilo.css">
+</head>
 
-            <body>
+<body>
 
-                <h1>Testando JS</h1>
+    <h1>Testando JS</h1>
 
-                    <p id="mensagem">Abrir mensagem</p>
+    <div class="bloco">
+        <h2>Realizando alteração no HTML com JS</h2>
+        <p id="mensagem">Abrir mensagem </p>
+        <button onclick="revelarMensagem()">Revelar Mensagem</button>
+        <br><br>
+    </div>
 
-                        <button onclick="revelarMensagem()">Revelar mensagem</button>
+    <div class="bloco">
+        <h2>Testando alteração usando variáveis</h2>
+        <label for="nomeUsuario">Digite seu nome</label>
+        <input type="text" id="nomeUsuario">
+        <br><br>
 
-                            <script src="script.js"></script>
+        <button onclick="mostrarNome()">Atualizar nome</button>
+        <br><br>
 
-                            </body>
-                            </html>
+        <p id="resultadoNome">Seu nome aparecerá aqui.</p>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
