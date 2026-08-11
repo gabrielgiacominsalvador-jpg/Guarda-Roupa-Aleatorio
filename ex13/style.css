@@ -1,0 +1,21 @@
+  {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #edf3ff, #f7f9fc);
+    color: #263238;
+    margin: 0;
+    padding: 40px 16px;
+}
+
+.container {
+    width: 100%;
+    max-width: 760px;
+    margin: auto;
+    padding: 32px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 14px 35px rgba(32, 54, 86, 0.16);
+}
