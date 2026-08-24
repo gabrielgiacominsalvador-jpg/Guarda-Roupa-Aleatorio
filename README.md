@@ -1,1 +1,200 @@
 gabrielgiacominsalvador-jpg
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Guarda-Roupa Aleatório</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="lobby">
+
+        <header class="cabecalho">
+            <p class="etiqueta">ATIVIDADES</p>
+
+            <h1>Guarda-Roupa Aleatório</h1>
+
+            <p>
+                Escolha uma atividade para começar.
+            </p>
+        </header>
+
+
+        <section class="atividades">
+
+            <a href="ex01/" class="atividade">
+                <span class="numero">01</span>
+                <div>
+                    <h2>Alterando Conteúdo</h2>
+                    <p>Manipulação de conteúdo com JavaScript.</p>
+                </div>
+            </a>
+
+            <a href="ex02/" class="atividade">
+                <span class="numero">02</span>
+                <div>
+                    <h2>Modo Claro e Escuro</h2>
+                    <p>Alteração de tema da página.</p>
+                </div>
+            </a>
+
+            <a href="ex03/" class="atividade">
+                <span class="numero">03</span>
+                <div>
+                    <h2>Tamanho, Fonte e Estilo</h2>
+                    <p>Alteração da aparência de um texto.</p>
+                </div>
+            </a>
+
+            <a href="ex04/" class="atividade">
+                <span class="numero">04</span>
+                <div>
+                    <h2>Capturando Nome</h2>
+                    <p>Entrada e exibição do nome do aluno.</p>
+                </div>
+            </a>
+
+            <a href="ex05/" class="atividade">
+                <span class="numero">05</span>
+                <div>
+                    <h2>Contador de Cliques</h2>
+                    <p>Contagem, diminuição e zeramento.</p>
+                </div>
+            </a>
+
+            <a href="ex06/" class="atividade">
+                <span class="numero">06</span>
+                <div>
+                    <h2>Calculadora Simples</h2>
+                    <p>Operações matemáticas básicas.</p>
+                </div>
+            </a>
+
+            <a href="ex07/" class="atividade">
+                <span class="numero">07</span>
+                <div>
+                    <h2>Conversor de Temperatura</h2>
+                    <p>Conversão entre diferentes escalas.</p>
+                </div>
+            </a>
+
+            <a href="ex08/" class="atividade">
+                <span class="numero">08</span>
+                <div>
+                    <h2>Média do Aluno</h2>
+                    <p>Cálculo da média de notas.</p>
+                </div>
+            </a>
+
+            <a href="ex09/" class="atividade">
+                <span class="numero">09</span>
+                <div>
+                    <h2>Validação de Nome</h2>
+                    <p>Validação de campos de entrada.</p>
+                </div>
+            </a>
+
+            <a href="ex10/" class="atividade">
+                <span class="numero">10</span>
+                <div>
+                    <h2>Login Simples</h2>
+                    <p>Validação de usuário e senha.</p>
+                </div>
+            </a>
+
+            <a href="ex11/" class="atividade">
+                <span class="numero">11</span>
+                <div>
+                    <h2>Contador com Laço</h2>
+                    <p>Uso de estruturas de repetição.</p>
+                </div>
+            </a>
+
+            <a href="ex12/" class="atividade">
+                <span class="numero">12</span>
+                <div>
+                    <h2>Tipos de Dados</h2>
+                    <p>Identificação de tipos em JavaScript.</p>
+                </div>
+            </a>
+
+            <a href="ex13/" class="atividade">
+                <span class="numero">13</span>
+                <div>
+                    <h2>Laboratório de Variáveis</h2>
+                    <p>var, let e const.</p>
+                </div>
+            </a>
+
+            <a href="ex14/" class="atividade">
+                <span class="numero">14</span>
+                <div>
+                    <h2>Painel de Visitas</h2>
+                    <p>Variáveis locais e globais.</p>
+                </div>
+            </a>
+
+            <a href="ex15/" class="atividade">
+                <span class="numero">15</span>
+                <div>
+                    <h2>Calculadora de Desconto</h2>
+                    <p>Funções, parâmetros e retorno.</p>
+                </div>
+            </a>
+
+            <a href="ex16/" class="atividade">
+                <span class="numero">16</span>
+                <div>
+                    <h2>Lista de Participantes</h2>
+                    <p>Manipulação de arrays.</p>
+                </div>
+            </a>
+
+            <a href="ex17/" class="atividade">
+                <span class="numero">17</span>
+                <div>
+                    <h2>Trilha de Tecnologias</h2>
+                    <p>Percorrendo arrays com forEach.</p>
+                </div>
+            </a>
+
+            <a href="ex18/" class="atividade">
+                <span class="numero">18</span>
+                <div>
+                    <h2>Painel de Eventos</h2>
+                    <p>Eventos com addEventListener.</p>
+                </div>
+            </a>
+
+            <a href="ex19/" class="atividade">
+                <span class="numero">19</span>
+                <div>
+                    <h2>Laboratório de Classes</h2>
+                    <p>Manipulação de classes com classList.</p>
+                </div>
+            </a>
+
+            <a href="ex20/" class="atividade">
+                <span class="numero">20</span>
+                <div>
+                    <h2>Lista de Tarefas</h2>
+                    <p>Arrays, elementos e classList.</p>
+                </div>
+            </a>
+
+        </section>
+
+        <footer>
+            <p>Guarda-Roupa Aleatório • Atividades de JavaScript</p>
+        </footer>
+
+    </main>
+
+</body>
+</html>
